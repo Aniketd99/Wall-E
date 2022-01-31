@@ -11,7 +11,7 @@ like playing music, opening your favorite IDE with the help of a single voice co
 the current scenario, advancement in technologies are such that they can perform any task
 with same effectiveness or can say more effectively than us. By making this project, We
 realized that the concept of AI in every field is decreasing human effort and saving time.
-It can perform some basic commands such as:
+It can perform some basic commands such as:-
 
 1. It can send emails.
 2. It can read PDF.
